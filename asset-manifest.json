@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7ac38e42.chunk.css",
+    "main.js": "/static/js/main.69511b16.chunk.js",
+    "main.js.map": "/static/js/main.69511b16.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.07ad49ca.js",
+    "runtime-main.js.map": "/static/js/runtime-main.07ad49ca.js.map",
+    "static/css/2.9905d55a.chunk.css": "/static/css/2.9905d55a.chunk.css",
+    "static/js/2.e4293ca1.chunk.js": "/static/js/2.e4293ca1.chunk.js",
+    "static/js/2.e4293ca1.chunk.js.map": "/static/js/2.e4293ca1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.26d9738b7a1fc35a5e173254c48bcea8.js": "/precache-manifest.26d9738b7a1fc35a5e173254c48bcea8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.9905d55a.chunk.css.map": "/static/css/2.9905d55a.chunk.css.map",
+    "static/css/main.7ac38e42.chunk.css.map": "/static/css/main.7ac38e42.chunk.css.map",
+    "static/js/2.e4293ca1.chunk.js.LICENSE.txt": "/static/js/2.e4293ca1.chunk.js.LICENSE.txt",
+    "static/media/memoji.jpg": "/static/media/memoji.71d3655f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07ad49ca.js",
+    "static/css/2.9905d55a.chunk.css",
+    "static/js/2.e4293ca1.chunk.js",
+    "static/css/main.7ac38e42.chunk.css",
+    "static/js/main.69511b16.chunk.js"
+  ]
+}
